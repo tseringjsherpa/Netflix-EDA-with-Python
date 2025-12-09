@@ -166,3 +166,8 @@ The notebook includes:
 ## References
 
 Shivam Bansal. (2021). *Netflix Movies and TV Shows* [Data set]. Kaggle. https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+# Author
+
+Tsering J Sherpa
+
